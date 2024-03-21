@@ -1,5 +1,7 @@
 package com.meteo.meteoforecast.remote.di
 
+import com.meteo.meteoforecast.remote.IWeatherForecastProvider
+import com.meteo.meteoforecast.remote.WeatherForecastProvider
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -21,5 +23,11 @@ object WeatherForecastRemoteModule {
             )
             .addConverterFactory(JacksonConverterFactory.create())
             .build()
+    }
+
+    @Provides
+    @Singleton
+    fun weatherForecastProvider(weatherForecastProvider : WeatherForecastProvider) : IWeatherForecastProvider{
+        return weatherForecastProvider
     }
 }

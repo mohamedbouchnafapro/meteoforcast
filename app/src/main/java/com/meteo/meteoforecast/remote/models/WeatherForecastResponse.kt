@@ -1,17 +1,21 @@
 package com.meteo.meteoforecast.remote.models
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import com.fasterxml.jackson.annotation.JsonProperty
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 class WeatherForecastResponse {
     @JsonProperty("timelines")
     val timelines : WeatherForecastTimeline = WeatherForecastTimeline()
 }
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 class WeatherForecastTimeline {
     @JsonProperty("daily")
     val daily : List<WeatherForecastDaily> = emptyList()
 }
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 class WeatherForecastDaily {
     @JsonProperty("time")
     val time : String = ""
@@ -19,6 +23,7 @@ class WeatherForecastDaily {
     val values : WeatherForecastValuesResponse = WeatherForecastValuesResponse()
 }
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 class WeatherForecastValuesResponse {
     @JsonProperty("humidityAvg")
     val humidityAvg : String = ""
@@ -26,10 +31,10 @@ class WeatherForecastValuesResponse {
     val humidityMax : String = ""
     @JsonProperty("humidityMin")
     val humidityMin : String = ""
-    @JsonProperty("humidityAvg")
+    @JsonProperty("temperatureAvg")
     val temperatureAvg : String = ""
-    @JsonProperty("humidityMax")
+    @JsonProperty("temperatureMax")
     val temperatureMax : String = ""
-    @JsonProperty("humidityMin")
+    @JsonProperty("temperatureMin")
     val temperatureMin : String = ""
 }

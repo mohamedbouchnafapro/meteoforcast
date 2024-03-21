@@ -3115,6 +3115,7 @@ int id custom 0x7f080074
 int id customPanel 0x7f080075
 int id cut 0x7f080076
 int id date_picker_actions 0x7f080077
+int id dayText 0x7f0801c9
 int id decelerate 0x7f080078
 int id decelerateAndComplete 0x7f080079
 int id decor_content_parent 0x7f08007a
@@ -3167,6 +3168,7 @@ int id fitXY 0x7f0800a8
 int id fixed 0x7f0800a9
 int id flip 0x7f0800aa
 int id floating 0x7f0800ab
+int id forecastRecyclerView 0x7f0801c1
 int id forever 0x7f0800ac
 int id fragment_container_view_tag 0x7f0800ad
 int id fullscreen_header 0x7f0800ae
@@ -3183,6 +3185,9 @@ int id hideable 0x7f0800b8
 int id home 0x7f0800b9
 int id homeAsUp 0x7f0800ba
 int id honorRequest 0x7f0800bb
+int id humidityAvg 0x7f0801c2
+int id humidityMax 0x7f0801c3
+int id humidityMin 0x7f0801c4
 int id icon 0x7f0800bc
 int id icon_group 0x7f0800bd
 int id ifRoom 0x7f0800be
@@ -3395,9 +3400,13 @@ int id tag_transition_group 0x7f08018c
 int id tag_unhandled_key_event_manager 0x7f08018d
 int id tag_unhandled_key_listeners 0x7f08018e
 int id tag_window_insets_animation_callback 0x7f08018f
+int id temperatureAvg 0x7f0801c5
+int id temperatureMax 0x7f0801c6
+int id temperatureMin 0x7f0801c7
 int id text 0x7f080190
 int id text2 0x7f080191
 int id textEnd 0x7f080192
+int id textError 0x7f0801c8
 int id textSpacerNoButtons 0x7f080193
 int id textSpacerNoTitle 0x7f080194
 int id textStart 0x7f080195
@@ -3575,6 +3584,7 @@ int layout design_navigation_menu 0x7f0b0029
 int layout design_navigation_menu_item 0x7f0b002a
 int layout design_text_input_end_icon 0x7f0b002b
 int layout design_text_input_start_icon 0x7f0b002c
+int layout forecast_item 0x7f0b006c
 int layout ime_base_split_test_activity 0x7f0b002d
 int layout ime_secondary_split_test_activity 0x7f0b002e
 int layout m3_alert_dialog 0x7f0b002f

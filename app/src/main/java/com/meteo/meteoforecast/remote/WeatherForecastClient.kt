@@ -8,7 +8,7 @@ interface WeatherForecastClient {
 
     @GET("v4/weather/forecast")
     suspend fun getWeatherForecast(
-        @Query("apiKey") apikey : String = "1A8iuFAHzq0uNDOsXYYGZH8CVWRqkLaE",
+        @Query("apikey") apikey : String = "1A8iuFAHzq0uNDOsXYYGZH8CVWRqkLaE",
         @Query("location") location: String,
         @Query("timesteps") timesteps : String
     ) : WeatherForecastResponse
