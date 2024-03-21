@@ -1,11 +1,12 @@
 package com.meteo.meteoforecast
 
 import android.os.Bundle
-import android.os.PersistableBundle
 import android.view.LayoutInflater
 import androidx.appcompat.app.AppCompatActivity
 import com.meteo.meteoforecast.databinding.ActivityMainBinding
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
     val bindingInflater: (LayoutInflater) -> ActivityMainBinding =
         ActivityMainBinding::inflate

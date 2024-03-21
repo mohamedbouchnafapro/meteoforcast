@@ -1,51 +1,53 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:2:1-30:12
-MERGED from [androidx.databinding:viewbinding:8.1.3] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/c546f46b147ac1eaf52c904f1e22452b/transformed/viewbinding-8.1.3/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.material:material:1.11.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/298ab32c227229a0c455237a7b5754fb/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/6b42806416e2ad52d07c1dabbd4fd9fe/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3e4787e39cc3b1f350139b9141058073/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/4f57cd76947b7546ba372204a5c90b95/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/446e0d9c1f278dbb1d8be6da8b7a0ede/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.3.6] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/652404c4714f085a5376ba9a8e2f1c03/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.8.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/27cdcea51261653e277893d25bb3a506/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/649632d09c4062c2a5450449f2ebc49b/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9ec774622fab7d617ed2ee8d3505325e/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f14f07848b0f080468c426664b0a5791/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/08053d3d4e284e735cf1fc22b8e25a94/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/662629eb6fc6b187dd89b71c16ffafbe/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/6fd7c2aee15c3b32798d71ffc0fbbb18/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f3b2fd0bab36055d012d4cd7dd6ca67f/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a6bac128da52449e1d738355876ae988/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/46b1dfae53f3f245b47844a08649145e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ea0d9682d1d3bc25f2d13e90dee81d5/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/b2ce3caf12f51494a1854d5936d5d641/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/74a77072377e86eb9b31e745046105a9/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/5b847e02966084b533d57947637a7fc2/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/cd10c20e51014e87a4251785cc588b07/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0f77df1cddce4bb3491076466071ce94/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/722b29e7d0bd6b8757d249c0ff6c892e/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/56a89209dd3eec0601f26d52b3e8b177/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3dc4b077a0162c651dc4bef80cf1b7a7/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/956f6069ac673c81e368c581fe3ce0ce/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/ce7f1710512eb5325081ae875ec8bd50/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/98fe4637e1b4bb3985b9486c161acd62/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/2ba3e903bbf5420dbe7edffa1361331f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/7ea99f9e640a5fbc5e30bc933bf46910/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/832cb1fd8a029e3225eb59c59cbb740f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/534d1966fb35e09dc8b1f60da2d1aab1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/b632ae2a9620d884a0dc67d5c8960b7d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0a0f67229416faa9d42e18baba3acbd2/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/4e4ff20af44490d74c42ecfd0635db7b/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a81768dca2769bf0522d865403a741e4/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/977acae4a1886fde0dd5a7967eabf713/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/901dda6baf29b4e369c27d0a45fe1ca7/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3cadfcbed8980d471482dbd21f7d86b9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.databinding:viewbinding:8.1.3] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a468589d8bbbd17ad4b52bcebe1f56a4/transformed/viewbinding-8.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e883d30ed9ba846be0c4ee84f6db7d1f/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.48.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f846a3b6dff4f2dcf9a790bec7558a98/transformed/hilt-android-2.48.1/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e7f2ca406fb141c51044d92bffce9c23/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/cfbcc4ad5bc5868fff96b2edfed46b03/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e64cd0129b1bb17fab534ff8c1ce5288/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e721e9900e61032f3d86f792e9422af3/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8477c0970e461099551c01397ad1784c/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/5eb4c206d1744d287f797d482de01bd4/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/4c9f87d1e872c1d2d0f73a1c52d3e2ae/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/821f6029279444e6ac1dfa35ebac8cb0/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/89b384e82ce80a17bcae292c936d04b1/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/75ed1e38e51f780bdb7a5937b250c35c/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/13321456b03ecc4630abe3c233ee7469/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/fb876d06ba284880edfc0200af58dc34/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ac38cde71d33a093f47d030b4e8da98/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/09f9ce16c777098058833b710a73ca79/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/dd377f9bc4ba2e1b82c3f824445c49b5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/6fc6e8d75d83fae91db2d14cdde9c8cc/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/205d436aedd131aff68aeda45943850a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8b6a445a134ba92cee790bfe8e8f64ce/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/1e95529ef38261331875f5d131eec0a8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/830cb0dc503531ccd54f7001fd80d1c7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/21ba5b7486c00a8b6db59c79b93fa303/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/b11f56bd210f2e0f6c4013bb226a0022/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/463f1b3f5cad14a1cd00db7474dc6583/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/2ea9ce3862a5600d311c50eadca7d3aa/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/459ba95b6cb98ab4a9b3a969e07dac91/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579a6db276f06440a1842bbecc576c2a/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/adf869b4dbfadf8cdda3202867454d47/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a4ef40a1aa8c5cf0fdf669345a4e447a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/44c434deb547f89b089a7f3294a87926/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/c6e44c06d7a1f1ff837d3c4148f65879/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/926260bb3693a8b431b16edcf678a09b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/7c6d29e29222f7fe62990431413e2b44/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a000048c43852d299aef0257f7c59a49/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/030adb8c9b048a3dac7cae85408bc972/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/551e9953ffb39bc0f7665a8622b02b7a/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3379aa2e1c4738316cd4d664f4eea5c7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/2784e01b424860816fe8ad38ac2fc3d9/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/c599380abdf50fab2645e49883babafc/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.48.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/86ae25e261431f0cd1c3e4347bf832cc/transformed/dagger-lint-aar-2.48.1/AndroidManifest.xml:16:1-19:12
 	package
 		INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -57,241 +59,247 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/mohamed.b
 	xmlns:android
 		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:5:5-28:19
-INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:5:5-28:19
-MERGED from [com.google.android.material:material:1.11.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/298ab32c227229a0c455237a7b5754fb/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.11.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/298ab32c227229a0c455237a7b5754fb/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3e4787e39cc3b1f350139b9141058073/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3e4787e39cc3b1f350139b9141058073/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
-MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f14f07848b0f080468c426664b0a5791/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f14f07848b0f080468c426664b0a5791/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/722b29e7d0bd6b8757d249c0ff6c892e/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/722b29e7d0bd6b8757d249c0ff6c892e/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/534d1966fb35e09dc8b1f60da2d1aab1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/534d1966fb35e09dc8b1f60da2d1aab1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/b632ae2a9620d884a0dc67d5c8960b7d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/b632ae2a9620d884a0dc67d5c8960b7d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:5:5-29:19
+INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:5:5-29:19
+MERGED from [com.google.android.material:material:1.11.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e883d30ed9ba846be0c4ee84f6db7d1f/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e883d30ed9ba846be0c4ee84f6db7d1f/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/cfbcc4ad5bc5868fff96b2edfed46b03/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/cfbcc4ad5bc5868fff96b2edfed46b03/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/89b384e82ce80a17bcae292c936d04b1/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/89b384e82ce80a17bcae292c936d04b1/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/463f1b3f5cad14a1cd00db7474dc6583/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/463f1b3f5cad14a1cd00db7474dc6583/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/926260bb3693a8b431b16edcf678a09b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/926260bb3693a8b431b16edcf678a09b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/7c6d29e29222f7fe62990431413e2b44/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/7c6d29e29222f7fe62990431413e2b44/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
 		INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:11:9-51
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:12:9-51
+	android:name
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:6:9-28
 activity#com.meteo.meteoforecast.MainActivity
-ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:14:9-26:20
+ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:15:9-27:20
 	android:launchMode
-		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:18:13-43
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:19:13-43
 	android:windowSoftInputMode
-		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:19:13-52
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:20:13-52
 	android:exported
-		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:15:13-36
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:16:13-36
 	android:configChanges
-		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:17:13-59
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:18:13-59
 	android:name
-		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:16:13-41
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:21:13-24:29
+ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
-ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:23:17-77
+ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:23:27-74
+		ADDED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml:24:27-74
 uses-sdk
 INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml
-MERGED from [androidx.databinding:viewbinding:8.1.3] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/c546f46b147ac1eaf52c904f1e22452b/transformed/viewbinding-8.1.3/AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:viewbinding:8.1.3] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/c546f46b147ac1eaf52c904f1e22452b/transformed/viewbinding-8.1.3/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.material:material:1.11.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/298ab32c227229a0c455237a7b5754fb/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.11.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/298ab32c227229a0c455237a7b5754fb/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/6b42806416e2ad52d07c1dabbd4fd9fe/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/6b42806416e2ad52d07c1dabbd4fd9fe/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3e4787e39cc3b1f350139b9141058073/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3e4787e39cc3b1f350139b9141058073/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/4f57cd76947b7546ba372204a5c90b95/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/4f57cd76947b7546ba372204a5c90b95/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/446e0d9c1f278dbb1d8be6da8b7a0ede/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/446e0d9c1f278dbb1d8be6da8b7a0ede/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/652404c4714f085a5376ba9a8e2f1c03/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/652404c4714f085a5376ba9a8e2f1c03/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.8.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/27cdcea51261653e277893d25bb3a506/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.8.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/27cdcea51261653e277893d25bb3a506/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/649632d09c4062c2a5450449f2ebc49b/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/649632d09c4062c2a5450449f2ebc49b/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9ec774622fab7d617ed2ee8d3505325e/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9ec774622fab7d617ed2ee8d3505325e/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f14f07848b0f080468c426664b0a5791/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f14f07848b0f080468c426664b0a5791/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/08053d3d4e284e735cf1fc22b8e25a94/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/08053d3d4e284e735cf1fc22b8e25a94/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/662629eb6fc6b187dd89b71c16ffafbe/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/662629eb6fc6b187dd89b71c16ffafbe/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/6fd7c2aee15c3b32798d71ffc0fbbb18/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/6fd7c2aee15c3b32798d71ffc0fbbb18/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f3b2fd0bab36055d012d4cd7dd6ca67f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f3b2fd0bab36055d012d4cd7dd6ca67f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a6bac128da52449e1d738355876ae988/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a6bac128da52449e1d738355876ae988/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/46b1dfae53f3f245b47844a08649145e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/46b1dfae53f3f245b47844a08649145e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ea0d9682d1d3bc25f2d13e90dee81d5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ea0d9682d1d3bc25f2d13e90dee81d5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/b2ce3caf12f51494a1854d5936d5d641/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/b2ce3caf12f51494a1854d5936d5d641/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/74a77072377e86eb9b31e745046105a9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/74a77072377e86eb9b31e745046105a9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/5b847e02966084b533d57947637a7fc2/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/5b847e02966084b533d57947637a7fc2/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/cd10c20e51014e87a4251785cc588b07/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/cd10c20e51014e87a4251785cc588b07/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0f77df1cddce4bb3491076466071ce94/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0f77df1cddce4bb3491076466071ce94/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/722b29e7d0bd6b8757d249c0ff6c892e/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/722b29e7d0bd6b8757d249c0ff6c892e/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/56a89209dd3eec0601f26d52b3e8b177/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/56a89209dd3eec0601f26d52b3e8b177/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3dc4b077a0162c651dc4bef80cf1b7a7/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3dc4b077a0162c651dc4bef80cf1b7a7/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/956f6069ac673c81e368c581fe3ce0ce/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/956f6069ac673c81e368c581fe3ce0ce/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/ce7f1710512eb5325081ae875ec8bd50/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/ce7f1710512eb5325081ae875ec8bd50/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/98fe4637e1b4bb3985b9486c161acd62/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/98fe4637e1b4bb3985b9486c161acd62/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/2ba3e903bbf5420dbe7edffa1361331f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/2ba3e903bbf5420dbe7edffa1361331f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/7ea99f9e640a5fbc5e30bc933bf46910/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/7ea99f9e640a5fbc5e30bc933bf46910/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/832cb1fd8a029e3225eb59c59cbb740f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/832cb1fd8a029e3225eb59c59cbb740f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/534d1966fb35e09dc8b1f60da2d1aab1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/534d1966fb35e09dc8b1f60da2d1aab1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/b632ae2a9620d884a0dc67d5c8960b7d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/b632ae2a9620d884a0dc67d5c8960b7d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0a0f67229416faa9d42e18baba3acbd2/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0a0f67229416faa9d42e18baba3acbd2/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/4e4ff20af44490d74c42ecfd0635db7b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/4e4ff20af44490d74c42ecfd0635db7b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a81768dca2769bf0522d865403a741e4/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a81768dca2769bf0522d865403a741e4/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/977acae4a1886fde0dd5a7967eabf713/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/977acae4a1886fde0dd5a7967eabf713/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/901dda6baf29b4e369c27d0a45fe1ca7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/901dda6baf29b4e369c27d0a45fe1ca7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3cadfcbed8980d471482dbd21f7d86b9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3cadfcbed8980d471482dbd21f7d86b9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.3] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a468589d8bbbd17ad4b52bcebe1f56a4/transformed/viewbinding-8.1.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.3] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a468589d8bbbd17ad4b52bcebe1f56a4/transformed/viewbinding-8.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e883d30ed9ba846be0c4ee84f6db7d1f/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e883d30ed9ba846be0c4ee84f6db7d1f/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:hilt-android:2.48.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f846a3b6dff4f2dcf9a790bec7558a98/transformed/hilt-android-2.48.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.48.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f846a3b6dff4f2dcf9a790bec7558a98/transformed/hilt-android-2.48.1/AndroidManifest.xml:18:3-42
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e7f2ca406fb141c51044d92bffce9c23/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e7f2ca406fb141c51044d92bffce9c23/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/cfbcc4ad5bc5868fff96b2edfed46b03/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/cfbcc4ad5bc5868fff96b2edfed46b03/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e64cd0129b1bb17fab534ff8c1ce5288/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e64cd0129b1bb17fab534ff8c1ce5288/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e721e9900e61032f3d86f792e9422af3/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/e721e9900e61032f3d86f792e9422af3/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8477c0970e461099551c01397ad1784c/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8477c0970e461099551c01397ad1784c/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/5eb4c206d1744d287f797d482de01bd4/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/5eb4c206d1744d287f797d482de01bd4/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/4c9f87d1e872c1d2d0f73a1c52d3e2ae/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/4c9f87d1e872c1d2d0f73a1c52d3e2ae/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/821f6029279444e6ac1dfa35ebac8cb0/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/821f6029279444e6ac1dfa35ebac8cb0/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/89b384e82ce80a17bcae292c936d04b1/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/89b384e82ce80a17bcae292c936d04b1/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/75ed1e38e51f780bdb7a5937b250c35c/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/75ed1e38e51f780bdb7a5937b250c35c/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/13321456b03ecc4630abe3c233ee7469/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/13321456b03ecc4630abe3c233ee7469/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/fb876d06ba284880edfc0200af58dc34/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/fb876d06ba284880edfc0200af58dc34/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ac38cde71d33a093f47d030b4e8da98/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ac38cde71d33a093f47d030b4e8da98/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/09f9ce16c777098058833b710a73ca79/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/09f9ce16c777098058833b710a73ca79/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/dd377f9bc4ba2e1b82c3f824445c49b5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/dd377f9bc4ba2e1b82c3f824445c49b5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/6fc6e8d75d83fae91db2d14cdde9c8cc/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/6fc6e8d75d83fae91db2d14cdde9c8cc/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/205d436aedd131aff68aeda45943850a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/205d436aedd131aff68aeda45943850a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8b6a445a134ba92cee790bfe8e8f64ce/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8b6a445a134ba92cee790bfe8e8f64ce/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/1e95529ef38261331875f5d131eec0a8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/1e95529ef38261331875f5d131eec0a8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/830cb0dc503531ccd54f7001fd80d1c7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/830cb0dc503531ccd54f7001fd80d1c7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/21ba5b7486c00a8b6db59c79b93fa303/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/21ba5b7486c00a8b6db59c79b93fa303/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/b11f56bd210f2e0f6c4013bb226a0022/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/b11f56bd210f2e0f6c4013bb226a0022/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/463f1b3f5cad14a1cd00db7474dc6583/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/463f1b3f5cad14a1cd00db7474dc6583/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/2ea9ce3862a5600d311c50eadca7d3aa/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/2ea9ce3862a5600d311c50eadca7d3aa/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/459ba95b6cb98ab4a9b3a969e07dac91/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/459ba95b6cb98ab4a9b3a969e07dac91/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579a6db276f06440a1842bbecc576c2a/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579a6db276f06440a1842bbecc576c2a/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/adf869b4dbfadf8cdda3202867454d47/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/adf869b4dbfadf8cdda3202867454d47/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a4ef40a1aa8c5cf0fdf669345a4e447a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a4ef40a1aa8c5cf0fdf669345a4e447a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/44c434deb547f89b089a7f3294a87926/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/44c434deb547f89b089a7f3294a87926/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/c6e44c06d7a1f1ff837d3c4148f65879/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/c6e44c06d7a1f1ff837d3c4148f65879/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/926260bb3693a8b431b16edcf678a09b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/926260bb3693a8b431b16edcf678a09b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/7c6d29e29222f7fe62990431413e2b44/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/7c6d29e29222f7fe62990431413e2b44/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a000048c43852d299aef0257f7c59a49/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/a000048c43852d299aef0257f7c59a49/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/030adb8c9b048a3dac7cae85408bc972/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/030adb8c9b048a3dac7cae85408bc972/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/551e9953ffb39bc0f7665a8622b02b7a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/551e9953ffb39bc0f7665a8622b02b7a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3379aa2e1c4738316cd4d664f4eea5c7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/3379aa2e1c4738316cd4d664f4eea5c7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/2784e01b424860816fe8ad38ac2fc3d9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/2784e01b424860816fe8ad38ac2fc3d9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/c599380abdf50fab2645e49883babafc/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/c599380abdf50fab2645e49883babafc/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.48.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/86ae25e261431f0cd1c3e4347bf832cc/transformed/dagger-lint-aar-2.48.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.48.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/86ae25e261431f0cd1c3e4347bf832cc/transformed/dagger-lint-aar-2.48.1/AndroidManifest.xml:18:3-42
 	android:targetSdkVersion
 		INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/mohamed.bouchnafa/newrepos/forecast/meteoforcast/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f14f07848b0f080468c426664b0a5791/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/722b29e7d0bd6b8757d249c0ff6c892e/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/722b29e7d0bd6b8757d249c0ff6c892e/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/b632ae2a9620d884a0dc67d5c8960b7d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/b632ae2a9620d884a0dc67d5c8960b7d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/89b384e82ce80a17bcae292c936d04b1/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/463f1b3f5cad14a1cd00db7474dc6583/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/463f1b3f5cad14a1cd00db7474dc6583/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/7c6d29e29222f7fe62990431413e2b44/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/7c6d29e29222f7fe62990431413e2b44/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f14f07848b0f080468c426664b0a5791/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/89b384e82ce80a17bcae292c936d04b1/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f14f07848b0f080468c426664b0a5791/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/89b384e82ce80a17bcae292c936d04b1/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f14f07848b0f080468c426664b0a5791/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/89b384e82ce80a17bcae292c936d04b1/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f14f07848b0f080468c426664b0a5791/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/89b384e82ce80a17bcae292c936d04b1/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f14f07848b0f080468c426664b0a5791/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/89b384e82ce80a17bcae292c936d04b1/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f14f07848b0f080468c426664b0a5791/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/89b384e82ce80a17bcae292c936d04b1/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/f14f07848b0f080468c426664b0a5791/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/89b384e82ce80a17bcae292c936d04b1/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
 permission#com.meteo.meteoforecast.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
 uses-permission#com.meteo.meteoforecast.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/0e97f9dce08af75b171a165cee77d128/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.12.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/8ffe9379d43d91a2578e3023842e3992/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/722b29e7d0bd6b8757d249c0ff6c892e/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/463f1b3f5cad14a1cd00db7474dc6583/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/722b29e7d0bd6b8757d249c0ff6c892e/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/463f1b3f5cad14a1cd00db7474dc6583/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/722b29e7d0bd6b8757d249c0ff6c892e/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/463f1b3f5cad14a1cd00db7474dc6583/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/9333dcb3c3f4f0781529100eabc5b955/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mohamed.bouchnafa/.gradle/caches/transforms-3/579afcb1a5675c075a66b14c5f17fe3c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
