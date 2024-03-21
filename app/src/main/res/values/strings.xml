@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeteoForecast</string>
+    <string name="screen_title">MeteoForecast for the 3 days</string>
+</resources>
